@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate **Python Data Engineer** with a s
 - Cloud data platforms like AWS and Google Cloud
 - Building scalable data pipelines
 
-## 📈 My GitHub Stats
+## 📈 My GitLab Stats
 
-![Mahfujar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnoyon&show_icons=true&theme=radical)
+![Mahfujar's GitLab Stats](https://gitlab.com/mahfujar/mahfujar/-/badges/pipeline.svg)
 
 ## 💼 Connect with Me
 
