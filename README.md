@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Python Data Engineer** with a s
 
 ## 📈 My GitLab Stats
 
-![Mahfujar's GitLab Stats](https://gitlab.com/mahfujar/mahfujar/-/badges/pipeline.svg)
+![Mahfujar's GitLab Activity](https://img.shields.io/badge/dynamic/json?color=fc6d26&label=commits&query=%24[0].commit&url=https://gitlab.com/api/v4/users/mahfujar/events)
 
 ## 💼 Connect with Me
 
