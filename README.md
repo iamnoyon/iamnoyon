@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Python Data Engineer** with a s
 
 ## 📈 My GitLab Stats
 
-![Mahfujar's GitHub stats]([https://github-readme-stats.vercel.app/api?username=mrnoyon&show_icons=true&count_private=true&include_all_commits=true&theme=radical](https://github-readme-stats.vercel.app/api?username=iamnoyon&show_icons=true&theme=radical&hide=stars,contribs))
+![Mahfujar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnoyon&show_icons=true&theme=radical&hide=stars,contribs)
 
 
 ## 💼 Connect with Me
