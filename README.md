@@ -21,10 +21,6 @@ Welcome to my GitHub profile! I'm a passionate **Python Data Engineer** with a s
 ![Mahfujar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnoyon&show_icons=true&theme=radical&hide=stars,contribs)
 
 
-## 💼 Connect with Me
-
-
-
 Feel free to reach out if you want to discuss data engineering, Python projects, or just say hello! I'm always open to networking and collaboration opportunities.
 
 Thanks for stopping by! 😊
