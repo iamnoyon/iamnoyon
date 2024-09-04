@@ -1,5 +1,5 @@
 # Hi there! I'm Mahfujar 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahfujar-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mrnoyon/) | ![](https://komarev.com/ghpvc/?username=iamnoyon&label=Profile%20views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahfujar-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mrnoyon/) ![](https://komarev.com/ghpvc/?username=iamnoyon&label=Profile%20views)
 
 Welcome to my GitHub profile! I'm a passionate **Python Data Engineer** with a strong background in web development, data engineering, and automation. I have a deep interest in writing efficient and compact code, as well as working with complex datasets and SQL databases.
 
