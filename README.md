@@ -1,26 +1,52 @@
-# Hi there! I'm Mahfujar 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahfujar-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mrnoyon/) ![](https://komarev.com/ghpvc/?username=mahfujars&label=Views)
+# Psst... Mahfujar here! 👀 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahfujar%20Rahman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mrnoyon/) [![Facebook](https://img.shields.io/badge/Facebook-Mahfujar%20Rahman-blue?style=flat&logo=facebook)](https://www.facebook.com/mr.9on) [![GitHub](https://img.shields.io/github/followers/mahfujars?label=Follow%20Me&style=social)](https://github.com/mahfujars)
 
-Welcome to my GitHub profile! I'm a passionate **Python Data Engineer** with a strong background in web development, data engineering, and automation. I have a deep interest in writing efficient and compact code, as well as working with complex datasets and SQL databases.
+**Data Engineer | Python Developer** 
 
-## 🔧 Technologies & Tools
+I'm obsessed with building lightning-fast data pipelines, solving complex problems head-on, and writing code that's as clean as it is powerful. Currently, I work remotely, transforming raw data into actionable insights from wherever I am.
 
-- **Programming Languages**: Python, SQL, JavaScript
-- **Frameworks & Libraries**: React, SQLAlchemy, Pandas, NumPy
-- **Databases**: PostgreSQL, MySQL
-- **DevOps Tools**: Docker, WSL (Windows Subsystem for Linux)
-- **Other Tools**: Git, Bash, HTML, CSS
+---
 
-## 🌱 Currently Learning
+### 🛠️ Tech Stack
 
-- Advanced data engineering techniques
-- Cloud data platforms like AWS and Google Cloud
-- Building scalable data pipelines
+- **Programming Languages**: Python 🐍, SQL 💾, JavaScript (JS) 🌐, [Other Languages]
+- **Tools & Technologies**: AWS (S3) ☁️, SQLAlchemy 🛠️, Git 🧑‍💻, WSL2 🖥️, Linux (Ubuntu) 🐧, [Other Tools]
+- **Data Engineering**: Web Scraping 🌐, ETL 🔄, Data Pipelines 📈, Data Quality Assurance ✅
+- **Frameworks & Libraries**: Requests 📦, Lxml 🌿, Beautiful Soup 🥣, Django 🌟, [Other Frameworks]
 
-## 📈 GitLab Stats
+---
 
-![Mahfujar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfujars&show_icons=true&theme=radical&hide=stars,contribs)
+### 📈 GitHub Stats
 
+<div align="center">
+  
+  ![Mahfujar's GitHub Streak](https://streak-stats.demolab.com/?user=mahfujars&theme=tokyonight&hide_border=true) ![Mahfujar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfujars&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
-Feel free to reach out if you want to discuss data engineering, Python projects, or just say hello! I'm always open to networking and collaboration opportunities.
+</div>
 
-Thanks for stopping by! 😊
+---
+
+### 🔥 Top Languages
+
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujars&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+
+</div>
+
+---
+
+### 🏆 Trophies & Achievements
+
+<div align="center">
+  
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mahfujars&rank=-?&theme=matrix&no-bg=true&no-frame=true)
+
+</div>
+
+---
+
+### 💼 Open for Opportunities
+
+I’m open to remote job opportunities and freelance projects related to Python, data engineering, web scraping, and backend development.
+
+Feel free to reach out and let’s connect!
